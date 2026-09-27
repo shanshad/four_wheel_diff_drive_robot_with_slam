@@ -1,4 +1,5 @@
 Overview
+
 The robot uses a four‑wheel differential‑drive chassis equipped with:
 
 A 2‑D LiDAR (e.g., RPLIDAR A2) providing range scans.
